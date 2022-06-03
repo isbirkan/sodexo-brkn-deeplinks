@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.sodexo.globalretail",
-                 "sha256_cert_fingerprints": ["4D:92:D5:9B:9F:4E:53:49:E2:54:0C:CF:38:6A:01:82:ED:A6:33:26:5F:4E:1F:23:A7:64:DB:8A:2B:E3:A8:75"] }
+    "target" : { "namespace": "android_app", "package_name": "com.sodexo.mywaycanary",
+                 "sha256_cert_fingerprints": ["03:5A:5A:F8:63:51:83:A1:75:DA:F3:D6:AD:D3:A5:D8:26:4F:7E:74:2B:4F:13:AA:70:1D:28:C0:A1:FE:DF:AB"] }
   }]

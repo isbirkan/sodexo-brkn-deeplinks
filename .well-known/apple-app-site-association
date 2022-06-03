@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "GN27FUBM2A.com.sodexo.globalretail",
+        "appID": "GN27FUBM2A.com.sodexo.mywaycanary",
         "paths": ["*"]
       }
     ]
